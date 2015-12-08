@@ -1,0 +1,2 @@
+UpperCase = require("upper-case");
+
